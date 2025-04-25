@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pa" timeStamp="Fri Apr 25 10:17:50 2025">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="df8d90deb9f34bbcbbf9d977ad24bac9" type="ProjectID"/>
+<property name="ProjectIteration" value="1" type="ProjectIteration"/>
+</section>
+<section name="PlanAhead Usage" visible="true">
+<item name="Project Data">
+<property name="SrcSetCount" value="1" type="SrcSetCount"/>
+<property name="ConstraintSetCount" value="1" type="ConstraintSetCount"/>
+<property name="DesignMode" value="RTL" type="DesignMode"/>
+<property name="SynthesisStrategy" value="Vivado Synthesis Defaults" type="SynthesisStrategy"/>
+<property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
+</item>
+<item name="Java Command Handlers">
+<property name="AddSources" value="4" type="JavaHandler"/>
+<property name="EditDelete" value="1" type="JavaHandler"/>
+<property name="EditUndo" value="1" type="JavaHandler"/>
+<property name="NewProject" value="1" type="JavaHandler"/>
+<property name="RunSchematic" value="1" type="JavaHandler"/>
+<property name="ShowView" value="1" type="JavaHandler"/>
+<property name="SimulationRun" value="3" type="JavaHandler"/>
+<property name="ToggleAutoFitSelection" value="1" type="JavaHandler"/>
+<property name="ZoomFit" value="1" type="JavaHandler"/>
+</item>
+<item name="Gui Resources Info">
+<property name="FINISH, Finish" value="4" type="GuiResourceData"/>
+<property name="FULL_ADDER.vhd, 109, 178" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER.vhd, 129, 470" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER.vhd, 200, 282" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER.vhd, 38, 241" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER.vhd, 392, 241" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER.vhd, 76, 151" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER.vhd, 79, 161" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 0, 99" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 100, 111" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 109, 246" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 110, 183" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 121, 106" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 124, 165" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 126, 467" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 128, 130" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 148, 231" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 16, 162" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 160, 236" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 172, 150" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 175, 232" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 179, 107" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 188, 228" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 191, 248" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 192, 213" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 192, 213, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 192, 214" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 193, 213" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 194, 172" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 194, 214, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 197, 235" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 203, 147" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 204, 199" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 206, 196" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 209, 201" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 217, 226" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 22, 183" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 22, 183, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 221, 175" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 221, 175, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 229, 196" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 231, 175" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 25, 97" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 25, 97, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 26, 219" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 27, 211" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 28, 97" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 28, 97, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 29, 163" value="2" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 29, 163, false, false, false, false, true" value="2" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 317, 141" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 33, 230" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 37, 217" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 38, 193" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 38, 194" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 39, 213" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 4, 213" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 40, 186" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 42, 245" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 42, 245, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 45, 145" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 45, 145, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 50, 213" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 50, 213, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 50, 221" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 55, 243" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 62, 192" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 63, 182" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 63, 182, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 64, 200" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 66, 191" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 68, 196" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 68, 211" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 70, 189" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 70, 199" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 70, 199, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 77, 178" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 77, 178, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 78, 180" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 8, 207" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 83, 208" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 86, 111" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 86, 111, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 91, 90" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 92, 159" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 92, 159, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 93, 80" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 93, 80, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 94, 214" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 95, 198" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 95, 198, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 99, 76" value="1" type="GuiResourceData"/>
+<property name="FULL_ADDER_STR.vhd, 99, 76, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="HAKF_ADDER.vhd, 108, 156" value="1" type="GuiResourceData"/>
+<property name="NEXT, Next " value="11" type="GuiResourceData"/>
+<property name="OR_GATE.vhd, 95, 178" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CmdMsgDialog_OK, OK" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CmdMsgDialog_OPEN_MESSAGES_VIEW, Open Messages View" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, FULL_ADDER" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, HALF_ADDER_STR" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, full_adder_str" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_ARCHITECTURE_NAME, DATAFLOW" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_ARCHITECTURE_NAME, STRUCTURAL" value="3" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; false ; 0 ; 0, 0, (String" value="2" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; false ; 0 ; 0, 1, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; false ; 0 ; 0, 2, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; false ; 0 ; 0, 3, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; false ; 0 ; 0, 4, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; false ; 0 ; 0, 5, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, A ; in ; false ; 0 ; 0, 0, A, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, A, 0, Port Name, 0" value="4" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, B ; in ; false ; 0 ; 0, 1, B, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, B, 1, Port Name, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, C ; in ; false ; 0 ; 0, 2, C, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, C, 2, Port Name, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, Carry ; in ; false ; 0 ; 0, 4, in, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, Carry, 4, Port Name, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, S ; in ; false ; 0 ; 0, 3, in, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, S ; out ; false ; 0 ; 0, 3, S, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, S, 3, Port Name, 0" value="2" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, Sum, 3, Port Name, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, X, 0, Port Name, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, Y, 1, Port Name, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, Z, 2, Port Name, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, out, 3, Direction, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, out, 4, Direction, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_ADD_SOURCES, Add Sources..." value="3" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_AUTO_FIT_SELECTION, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_AUTO_UPDATE_HIER, Hierarchy Update" value="3" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_FIT_SELECTION, Schematic_fit_selection" value="2" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_NEW_PROJECT, New Project..." value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_SIMULATION_RUN_BEHAVIORAL, Run Behavioral Simulation" value="3" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_ZOOM_FIT, Schematic_zoom_fit" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Constraints], 5, true, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, FULL_ADDER_STR - STRUCTURAL (FULL_ADDER_STR.vhd" value="18" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, HALF_ADDER - DATAFLOW (HAKF_ADDER.vhd" value="7" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, OR_GATE - DATAFLOW (OR_GATE.vhd" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, FULL_ADDER - STRUCTURAL (FULL_ADDER.vhd" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, FULL_ADDER_STR - STRUCTURAL (FULL_ADDER_STR.vhd" value="7" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, full_adder_str - STRUCTURAL (full_adder_str.vhd" value="5" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1], 7" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources], 3, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources], 3, true, false, false, false, true, false" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources], 6" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources], 6, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources], 6, true, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, Project Manager, Add Sources], 2, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, RTL Analysis, Open Elaborated Design, Schematic], 17, false" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, RTL Analysis, Open Elaborated Design], 14" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, Simulation, Run Simulation], 11, false" value="3" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_FILE, File" value="2" type="GuiResourceData"/>
+<property name="PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, [, Simulation, sim_1], 5" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MsgTreePanel_MESSAGE_VIEW_TREE, [, Simulation], 4" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.NetlistSchMenuAndMouse_VIEW, View" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_CODE, Code" value="3" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_FAMILY_CHOOSER, Artix-7, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_PARTS, xc7a100tcsg324-1 ; 324 ; 135 ; 240 ; 126800 ; 0 ; 0 ; 210 ; 63400 ; 6 ; 1 ; 85 ; 0 ; 85 ; C ; 1.05 ; 0.95 ; 0.95, 4, 126800, 4" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_PART_PACKAGE_CHOOSER, csg324, 2" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_PART_SPEED_CHOOSER, -1, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_PRODUCT_CHOOSER, General Purpose, 2" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.ProjectNameChooser_PROJECT_NAME, half_adder_structural" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.ProjectTab_RELOAD, Reload" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.RemoveSourcesDialog_ALSO_DELETE, Also delete the project local file/directory from disk, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcChooserPanel_ADD_HDL_AND_NETLIST_FILES_TO_YOUR_PROJECT, Add Files" value="4" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcChooserPanel_CREATE_FILE, Create File" value="3" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcChooserPanel_MAKE_LOCAL_COPY_OF_THESE_FILES_INTO, Copy sources into project, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcChooserPanel_SCAN_AND_ADD_RTL_INCLUDE_FILES_INTO, Scan and add RTL include files into project, true" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcChooserTable_SRC_CHOOSER_TABLE, VHDLSourceFile_small ; 1 ; HALF_ADDER_STR.vhd ; Local to Project ; xil_defaultlib ; Synthesis  Simulation ; Local to Project, 0, Local to Project, 6" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcMenu_IP_HIERARCHY, IP Hierarchy" value="3" type="GuiResourceData"/>
+<property name="RDIResource.AbstractCombinedPanel_ADD_ELEMENT, Add Definition" value="4" type="GuiResourceData"/>
+<property name="RDIResource.AbstractCombinedPanel_REMOVE_SELECTED_ELEMENTS, Remove" value="2" type="GuiResourceData"/>
+<property name="RDIResource.BaseDialog_OK, OK" value="7" type="GuiResourceData"/>
+<property name="RDIResource.ProgressDialog_CANCEL, Cancel" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 161, 97, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 1, 265" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 101, 320" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 112, 231" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 114, 311" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 118, 46" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 121, 312" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 124, 277" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 125, 298" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 127, 244" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 135, 320" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 138, 260" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 139, 137" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 139, 275" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 149, 275" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 187, 222" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 202, 298" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 226, 214" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 228, 189" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 246, 302" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 269, 190" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 3, 307" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 316, 192" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 331, 299" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 369, 301" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 4, 264" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 405, 297" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 421, 125" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 456, 291" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 49, 215" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 49, 306" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 49, 307" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 51, 94" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 52, 95" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 53, 169" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 53, 74" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 55, 229" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 57, 262" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 57, 60" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 58, 218" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 60, 300" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 64, 245" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 69, 280" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 70, 284" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 74, 244" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 74, 312" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 77, 297" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 78, 279" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 79, 258" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 79, 266" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 83, 315" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 86, 290" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 86, 331" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 87, 297" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 87, 329" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 88, 252" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 88, 259" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 88, 273" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 89, 299" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 90, 314" value="1" type="GuiResourceData"/>
+<property name="full_adder_str.vhd, 99, 283" value="1" type="GuiResourceData"/>
+</item>
+<item name="Other">
+<property name="GuiMode" value="78" type="GuiMode"/>
+<property name="BatchMode" value="0" type="BatchMode"/>
+<property name="TclMode" value="62" type="TclMode"/>
+</item>
+</section>
+</application>
+</document>

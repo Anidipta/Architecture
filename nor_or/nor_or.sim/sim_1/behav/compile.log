@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Anidipta_002/nor_or/nor_or.srcs/sources_1/new/NOR_OR.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NOR_OR
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Anidipta_002/nor_or/nor_or.srcs/sim_1/new/nor_or_gate_flow.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity nor_or_gate_flow

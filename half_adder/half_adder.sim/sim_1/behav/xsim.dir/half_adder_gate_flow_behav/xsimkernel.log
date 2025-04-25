@@ -1,0 +1,7 @@
+Running: xsim.dir/half_adder_gate_flow_behav/xsimk.exe -simmode gui -wdb half_adder_gate_flow_behav.wdb -simrunnum 0 -socket 56063
+Design successfully loaded
+Design Loading Memory Usage: 21428 KB (Peak: 21428 KB)
+Design Loading CPU Usage: 140 ms
+Simulation completed
+Simulation Memory Usage: 21676 KB (Peak: 21676 KB)
+Simulation CPU Usage: 140 ms

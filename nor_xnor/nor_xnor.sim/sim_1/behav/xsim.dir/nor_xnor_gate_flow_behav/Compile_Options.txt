@@ -1,0 +1,1 @@
+-wto "1f1874dd56e04745a534485f7f07a15e" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "nor_xnor_gate_flow_behav" "xil_defaultlib.nor_xnor_gate_flow" -log "elaborate.log" 

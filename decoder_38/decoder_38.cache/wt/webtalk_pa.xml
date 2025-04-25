@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pa" timeStamp="Fri Apr 04 10:57:13 2025">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="bec142c4b78c4ef28b961d3427d25326" type="ProjectID"/>
+<property name="ProjectIteration" value="1" type="ProjectIteration"/>
+</section>
+<section name="PlanAhead Usage" visible="true">
+<item name="Project Data">
+<property name="SrcSetCount" value="1" type="SrcSetCount"/>
+<property name="ConstraintSetCount" value="1" type="ConstraintSetCount"/>
+<property name="DesignMode" value="RTL" type="DesignMode"/>
+<property name="SynthesisStrategy" value="Vivado Synthesis Defaults" type="SynthesisStrategy"/>
+<property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
+</item>
+<item name="Java Command Handlers">
+<property name="AddSources" value="1" type="JavaHandler"/>
+<property name="CloseProject" value="1" type="JavaHandler"/>
+<property name="NewProject" value="1" type="JavaHandler"/>
+<property name="RunSchematic" value="1" type="JavaHandler"/>
+<property name="SimulationClose" value="1" type="JavaHandler"/>
+<property name="SimulationRun" value="2" type="JavaHandler"/>
+<property name="WaveformSaveConfiguration" value="1" type="JavaHandler"/>
+</item>
+<item name="Gui Resources Info">
+<property name="DECODE.vhd, 10, 248" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 10, 248, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 100, 263" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 100, 263, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 124, 230" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 190, 176" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 199, 194" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 25, 212" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 273, 118" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 311, 122" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 43, 216" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 43, 216, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 50, 115" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 59, 201" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 62, 214" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 62, 214, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 71, 201" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 80, 219" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 81, 152" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 81, 234" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 92, 232" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 92, 232, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 93, 250" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 93, 250, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 94, 201" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 94, 201, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 94, 216" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 94, 216, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 94, 221" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 94, 221, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 95, 233" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 95, 233, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 96, 199" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 96, 199, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 98, 182" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 98, 182, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 98, 248" value="1" type="GuiResourceData"/>
+<property name="DECODE.vhd, 98, 248, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="FINISH, Finish" value="2" type="GuiResourceData"/>
+<property name="NEXT, Next " value="8" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, DECODE" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, decode_gate_flow" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; false ; 0 ; 0, 0, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; false ; 0 ; 0, 0, 0, 3" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; false ; 0 ; 0, 0, false, 2" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; false ; 0 ; 0, 1, in, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; false ; 0 ; 0, 2, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; true ; 0 ; 0, 0, 0, 3" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; true ; 2 ; 0, 0, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; out ; false ; 0 ; 0, 1, false, 2" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; out ; true ; 0 ; 0, 1, 0, 3" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; out ; true ; 7 ; 0, 1, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, 2, 0, MSB, 3" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, 7, 1, MSB, 3" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, E, 2, Port Name, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, I, 0, Port Name, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, O, 1, Port Name, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, out, 1, Direction, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_ADD_SOURCES, Add Sources..." value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_AUTO_UPDATE_HIER, Hierarchy Update" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_CLOSE_PROJECT, Close Project" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_SIMULATION_RUN_BEHAVIORAL, Run Behavioral Simulation" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, DECODE - Behavioral (DECODE.vhd" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, decode_gate_flow - Behavioral (decode_gate_flow.vhd" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1], 4" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources], 3" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources], 3, true, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, RTL Analysis, Open Elaborated Design, Schematic], 17, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, RTL Analysis, Open Elaborated Design], 14" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, Simulation, Run Simulation], 11, false" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.GettingStartedView_CREATE_NEW_PROJECT, Create New Project" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_FILE, File" value="2" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_OPEN_RECENT_PROJECT, Open Recent Project" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_FAMILY_CHOOSER, Artix-7, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_PARTS, xc7a100tcsg324-1 ; 324 ; 135 ; 240 ; 126800 ; 0 ; 0 ; 210 ; 63400 ; 6 ; 1 ; 85 ; 0 ; 85 ; C ; 1.05 ; 0.95 ; 0.95, 4, 126800, 4" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_PART_PACKAGE_CHOOSER, csg324, 2" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_PART_PACKAGE_CHOOSER, csg325, 3" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_PART_SPEED_CHOOSER, -1, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_PRODUCT_CHOOSER, General Purpose, 2" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PartChooser_TEMP_CHOOSER, C, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.ProjectNameChooser_PROJECT_NAME, decoder_38" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcChooserPanel_CREATE_FILE, Create File" value="2" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcChooserTable_SRC_CHOOSER_TABLE, VHDLSourceFile_small ; 1 ; DECODE.vhd ; Local to Project ; xil_defaultlib ; Synthesis  Simulation ; Local to Project, 0, Local to Project, 6" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcMenu_IP_HIERARCHY, IP Hierarchy" value="1" type="GuiResourceData"/>
+<property name="RDIResource.AbstractCombinedPanel_ADD_ELEMENT, Add Definition" value="2" type="GuiResourceData"/>
+<property name="RDIResource.AbstractCombinedPanel_REMOVE_SELECTED_ELEMENTS, Remove" value="1" type="GuiResourceData"/>
+<property name="RDIResource.BaseDialog_OK, OK" value="4" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 106, 141" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 121, 103, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 147, 79" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 147, 79, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 149, 60" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 149, 60, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 151, 132" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 159, 115, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 204, 45" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 204, 45, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 219, 346" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 235, 73, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 337, 376, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 39, 359, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 724, 356" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 726, 35" value="3" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 737, -7" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 754, 352" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 87, 122, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 87, 164" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 90, 34" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 909, 448" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 93, 30" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 98, 97, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="RDIResource.WaveformNameTree_WAVEFORM_NAME_TREE, [true, I1[2:0]], 0" value="2" type="GuiResourceData"/>
+<property name="RDIResource.WaveformNameTree_WAVEFORM_NAME_TREE, [true, O1[7:0]], 1" value="2" type="GuiResourceData"/>
+<property name="RDIResource.WaveformView_GOTO_CURSOR, Waveform Viewer_waveformgotocursor" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 116, 465" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 180, 193, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 181, 193" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 197, 218" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 2, 204" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 287, 67" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 29, 202" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 301, 119" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 5, 208" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 6, 213" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 6, 236" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 62, 140" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 8, 194" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 8, 242" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 8, 249" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 80, 194" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 81, 196" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 84, 79" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 84, 79, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 84, 91" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 84, 91, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 85, 60" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 85, 60, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 88, 195" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 88, 195, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 9, 159" value="1" type="GuiResourceData"/>
+<property name="decode_gate_flow.vhd, 9, 175" value="1" type="GuiResourceData"/>
+</item>
+<item name="Other">
+<property name="GuiMode" value="57" type="GuiMode"/>
+<property name="BatchMode" value="0" type="BatchMode"/>
+<property name="TclMode" value="48" type="TclMode"/>
+</item>
+</section>
+</application>
+</document>

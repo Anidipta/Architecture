@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+<!--The data in this file is primarily intended for consumption by Xilinx tools.
+The structure and the elements are likely to change over the next few releases.
+This means code written to parse this file will need to be revisited each subsequent release.-->
+<application name="pa" timeStamp="Fri Mar 21 09:42:30 2025">
+<section name="Project Information" visible="false">
+<property name="ProjectID" value="be8c3a957b8f489986083e50e09a7bba" type="ProjectID"/>
+<property name="ProjectIteration" value="1" type="ProjectIteration"/>
+</section>
+<section name="PlanAhead Usage" visible="true">
+<item name="Project Data">
+<property name="SrcSetCount" value="1" type="SrcSetCount"/>
+<property name="ConstraintSetCount" value="1" type="ConstraintSetCount"/>
+<property name="DesignMode" value="RTL" type="DesignMode"/>
+<property name="SynthesisStrategy" value="Vivado Synthesis Defaults" type="SynthesisStrategy"/>
+<property name="ImplStrategy" value="Vivado Implementation Defaults" type="ImplStrategy"/>
+</item>
+<item name="Java Command Handlers">
+<property name="AddSources" value="1" type="JavaHandler"/>
+<property name="CloseProject" value="1" type="JavaHandler"/>
+<property name="RunSchematic" value="3" type="JavaHandler"/>
+<property name="SimulationRun" value="1" type="JavaHandler"/>
+</item>
+<item name="Gui Resources Info">
+<property name="FINISH, Finish" value="2" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 118, 149" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 120, 183" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 120, 233" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 140, 195" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 186, 161" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 194, 212" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 194, 213" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 233, 229" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 27, 197" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 279, 161" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 28, 196" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 283, 213" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 29, 210" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 37, 202" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 38, 219" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 4, 214" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 46, 47" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 5, 28" value="1" type="GuiResourceData"/>
+<property name="NAND_AND.vhd, 65, 211" value="1" type="GuiResourceData"/>
+<property name="NEXT, Next " value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, nand_and_gate_flow" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_ARCHITECTURE_NAME, DATAFLOW" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; false ; 0 ; 0, 0, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; false ; 0 ; 0, 1, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS,  ; in ; false ; 0 ; 0, 2, (String" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, A, 0, Port Name, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, B, 1, Port Name, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, C ; in ; false ; 0 ; 0, 2, in, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, C, 2, Port Name, 0" value="1" type="GuiResourceData"/>
+<property name="PAResourceAtoD.DefineModulesDialog_DEFINE_MODULES_AND_SPECIFY_IO_PORTS, out, 2, Direction, 1" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_ADD_SOURCES, Add Sources..." value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_CLOSE_PROJECT, Close Project" value="1" type="GuiResourceData"/>
+<property name="PAResourceCommand.PACommandNames_SIMULATION_RUN_BEHAVIORAL, Run Behavioral Simulation" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Design Sources, NAND_AND - Behavioral (NAND_AND.vhd" value="6" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, NAND_AND - Behavioral (NAND_AND.vhd" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1, nand_and_gate_flow - DATAFLOW (nand_and_gate_flow.vhd" value="4" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources, sim_1], 4" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources], 3" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, [root, Simulation Sources], 3, true, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, RTL Analysis, Elaborated Design, Schematic], 18, false" value="2" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, RTL Analysis, Open Elaborated Design, Schematic], 17, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, RTL Analysis, Open Elaborated Design], 14" value="1" type="GuiResourceData"/>
+<property name="PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, [, Simulation, Run Simulation], 11, false" value="1" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_FILE, File" value="4" type="GuiResourceData"/>
+<property name="PAResourceItoN.MainMenuMgr_OPEN_RECENT_PROJECT, Open Recent Project" value="2" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_CODE, Code" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_PROJECT_SUMMARY, Project Summary" value="1" type="GuiResourceData"/>
+<property name="PAResourceOtoP.PAViews_SCHEMATIC, Schematic" value="2" type="GuiResourceData"/>
+<property name="PAResourceOtoP.ProjectTab_RELOAD, Reload" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcChooserPanel_CREATE_FILE, Create File" value="1" type="GuiResourceData"/>
+<property name="PAResourceQtoS.SrcMenu_IP_HIERARCHY, IP Hierarchy" value="1" type="GuiResourceData"/>
+<property name="RDIResource.AbstractCombinedPanel_ADD_ELEMENT, Add Definition" value="2" type="GuiResourceData"/>
+<property name="RDIResource.BaseDialog_OK, OK" value="4" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 108, 104, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, 47, 83, false, false, false, true, false" value="1" type="GuiResourceData"/>
+<property name="RDIResource.RDIViews_WAVEFORM_VIEWER, Untitled 2" value="1" type="GuiResourceData"/>
+<property name="nand_and_gate_flow.vhd, 102, 178" value="1" type="GuiResourceData"/>
+<property name="nand_and_gate_flow.vhd, 110, 195" value="1" type="GuiResourceData"/>
+<property name="nand_and_gate_flow.vhd, 110, 195, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="nand_and_gate_flow.vhd, 205, 135" value="1" type="GuiResourceData"/>
+<property name="nand_and_gate_flow.vhd, 4, 168" value="1" type="GuiResourceData"/>
+<property name="nand_and_gate_flow.vhd, 69, 247" value="1" type="GuiResourceData"/>
+<property name="nand_and_gate_flow.vhd, 69, 247, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="nand_and_gate_flow.vhd, 77, 181" value="1" type="GuiResourceData"/>
+<property name="nand_and_gate_flow.vhd, 89, 198" value="1" type="GuiResourceData"/>
+<property name="nand_and_gate_flow.vhd, 89, 198, false, false, false, false, true" value="1" type="GuiResourceData"/>
+<property name="nand_and_gate_flow.vhd, 94, 465" value="1" type="GuiResourceData"/>
+</item>
+<item name="Other">
+<property name="GuiMode" value="33" type="GuiMode"/>
+<property name="BatchMode" value="0" type="BatchMode"/>
+<property name="TclMode" value="27" type="TclMode"/>
+</item>
+</section>
+</application>
+</document>

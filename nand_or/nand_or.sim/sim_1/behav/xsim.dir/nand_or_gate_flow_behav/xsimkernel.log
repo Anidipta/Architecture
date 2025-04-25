@@ -1,0 +1,7 @@
+Running: xsim.dir/nand_or_gate_flow_behav/xsimk.exe -simmode gui -wdb nand_or_gate_flow_behav.wdb -simrunnum 0 -socket 51995
+Design successfully loaded
+Design Loading Memory Usage: 22344 KB (Peak: 22344 KB)
+Design Loading CPU Usage: 233 ms
+Simulation completed
+Simulation Memory Usage: 22368 KB (Peak: 22368 KB)
+Simulation CPU Usage: 233 ms

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Anidipta_002/and_gate/and_gate.srcs/sources_1/new/AND_GATE.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity AND_GATE
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Anidipta_002/and_gate/and_gate.srcs/sim_1/new/and_gate_flow.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity and_gate_flow

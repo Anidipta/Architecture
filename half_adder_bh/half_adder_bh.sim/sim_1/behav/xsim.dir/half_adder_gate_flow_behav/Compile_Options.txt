@@ -1,0 +1,1 @@
+-wto "a95f7333c22f420ca59dd2f9d247e5af" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "half_adder_gate_flow_behav" "xil_defaultlib.half_adder_gate_flow" -log "elaborate.log" 

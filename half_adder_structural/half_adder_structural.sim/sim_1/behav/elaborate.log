@@ -1,0 +1,11 @@
+Vivado Simulator 2016.1
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.1/bin/unwrapped/win64.o/xelab.exe -wto e1327cf3315843008119c524ecce4cc3 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot half_adder_str_behav xil_defaultlib.half_adder_str -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-1460] top level unit is instantiated, use VHDL_COPY_TOP_BEFORE_STATIC_ELAB compile flag [D:/Anidipta_002/half_adder_structural/half_adder_structural.srcs/sim_1/new/half_adder_str.vhd:52]
+ERROR: [VRFC 10-718] formal port <A> does not exist in entity <half_adder_str>.  Please compare the definition of block <half_adder_str> to its component declaration and its instantion to detect the mismatch. [D:/Anidipta_002/half_adder_structural/half_adder_structural.srcs/sim_1/new/half_adder_str.vhd:41]
+ERROR: [VRFC 10-718] formal port <B> does not exist in entity <half_adder_str>.  Please compare the definition of block <half_adder_str> to its component declaration and its instantion to detect the mismatch. [D:/Anidipta_002/half_adder_structural/half_adder_structural.srcs/sim_1/new/half_adder_str.vhd:42]
+ERROR: [VRFC 10-718] formal port <S> does not exist in entity <half_adder_str>.  Please compare the definition of block <half_adder_str> to its component declaration and its instantion to detect the mismatch. [D:/Anidipta_002/half_adder_structural/half_adder_structural.srcs/sim_1/new/half_adder_str.vhd:43]
+ERROR: [VRFC 10-718] formal port <C> does not exist in entity <half_adder_str>.  Please compare the definition of block <half_adder_str> to its component declaration and its instantion to detect the mismatch. [D:/Anidipta_002/half_adder_structural/half_adder_structural.srcs/sim_1/new/half_adder_str.vhd:44]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit half_adder_str in library work failed.
